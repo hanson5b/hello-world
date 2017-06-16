@@ -11,3 +11,11 @@
 ### Afternoon
 *    Read e-mails
 *    Scrutinize LOLcats
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
